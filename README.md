@@ -10,7 +10,7 @@ The sub-sections below outline how each facet listed has been impacted by the om
 Because THS' 9th grade academic scores tended to be higher than the school and district averages, replacing them means that the second analysis' outputs for academic results are lower. Beginning with the district summary, the viewer can observe a decrease in x, y, and z.
 
 <Image of District Summary 1>
-![District Summary (w/THS 9th grade scores included)](First_district_summary.png)
+![District Summary (w/THS 9th grade scores included)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/First_district_summary.png)
 
 <Image of District Summary 2>
 ![District Summary (w/THS 9th grade scores omitted)](image.jpg)
