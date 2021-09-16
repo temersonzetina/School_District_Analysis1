@@ -11,11 +11,11 @@ Because THS' 9th grade academic scores tended to be higher than the school and d
 
 ![District Summary (w/THS 9th grade scores included)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/First_district_summary.png)
 
->**District Summary (w/THS 9th grade scores included), or "Initial Summary"**
+**Figure 1: District Summary (w/THS 9th grade scores included), or "Initial Summary"**
 
 ![District Summary (w/THS 9th grade scores omitted)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Second_district.summary%20copy.png)
 
-**District Summary (w/THS 9th grade scores omitted), or "Revised Summary"**
+**Figure 2: District Summary (w/THS 9th grade scores omitted), or "Revised Summary"**
 
 We expected these differences in results to be marginal given that THS 9th grade students comprise such a small percentage of the overall district population. When comparing the first and second school-specific analyses, we found that the changes therein were similarly modest.
 
@@ -26,11 +26,11 @@ As predicted, omitting scores from THS had no effect on the results for the othe
 
 ![School Summary (w/THS 9th grade scores included)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/School_summary_1.png)
 
-**Initial School Summary
+**Figure 3: Initial School Summary
 
 ![School Summary (w/THS 9th grade scores omitted)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/School_Summary_2.png)
 
-**Revised School Summary
+**Figure 4: Revised School Summary
 
 Results decreased modestly in terms of Average Math,  % Passing Math, % Passing Reading, and % Overall Passing. The largest drop was in % Passing Reading, where omitting THS' 9th graders led to a drop of 0.29 percentage points in the proficiency rate. The result for Average Reading increased slightly (by 0.05 percentage points).
 
@@ -39,15 +39,15 @@ Predictably, other than the effect on THS' scores of omitting its 9th grade resu
 
 ![School Math Scores - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Math_scores_by_grade_1.png)
 
-**Math Scores by School and Grade - Initial Analysis*
+**Figure 5: Math Scores by School and Grade - Initial Analysis*
 
 ![School Math Scores - Revised Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Math_scores_by_grade_2.png)
 
-**Math Scores by School and Grade - Revised Analysis* 
+**Figure 6: Math Scores by School and Grade - Revised Analysis* 
 
 ![School Reading Scores - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Reading_scores_by_grade_1.png)
 
-**Reading Scores by School and Grade - Initial Analysis*
+**Figure 7: Reading Scores by School and Grade - Initial Analysis*
 
 ![School Reading Scores - Revised Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Reading_scores_by_grade_2.png)
 
