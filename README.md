@@ -11,7 +11,7 @@ Because THS' 9th grade academic scores tended to be higher than the school and d
 
 ![District Summary (w/THS 9th grade scores included)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/First_district_summary.png)
 
-#####**Figure 1: District Summary (w/THS 9th grade scores included), or "Initial Summary"**
+####**Figure 1: District Summary (w/THS 9th grade scores included), or "Initial Summary"**
 
 ![District Summary (w/THS 9th grade scores omitted)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Second_district.summary%20copy.png)
 
