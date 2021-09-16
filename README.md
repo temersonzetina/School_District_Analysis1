@@ -53,7 +53,7 @@ Predictably, other than the effect on THS' scores of omitting its 9th grade resu
 
 ##### *Figure 8: Reading Scores by School and Grade - Revised Analysis*
 
-##### Scores by school spending
+##### Scores by school spending (per student)
 Scores based on spending ranges did not change between the first and second analysis.
 
 ![Scores By Spending - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Scores_by_spending_1.png)
