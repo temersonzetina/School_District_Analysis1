@@ -6,14 +6,12 @@ To note, the results shared below will compare the findings from (1) an initial 
 ### Results
 The sub-sections below outline how each facet listed has been impacted by the omission of Thomas High School's 9th grade test results.
 
-##### test
-
 #### District summary
 Because THS' 9th grade academic scores tended to be higher than the school and district averages, replacing them means that the second analysis' outputs for academic results are lower. The images below demonstrate several modest differences in academic performance between the two analyses.
 
 ![District Summary (w/THS 9th grade scores included)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/First_district_summary.png)
 
-####**Figure 1: District Summary (w/THS 9th grade scores included), or "Initial Summary"**
+##### **Figure 1: District Summary (w/THS 9th grade scores included), or "Initial Summary"**
 
 ![District Summary (w/THS 9th grade scores omitted)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Second_district.summary%20copy.png)
 
