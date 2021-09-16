@@ -1,7 +1,7 @@
 ### Overview
 The purpose of this analysis was to illustrate key indicators about the academic performance of PyCity Schools for use by leaders of finance and policy in the district. The descriptive statistics captured in the tables that follow depict both aggregate, district-level indicators and disaggregated data for each of the 14 schools. Variables describe a set of budgetary, demographic, and performance-related metrics of interest to district administrators. Once equipped with the information provided herein, administrators will be able to observe potential correlations between funding, school size, school type and academic performance. These observations will help to inform upcoming decisions about budget and school management policy.
 
-To note, the results shared below will compare the findings from (1) an initial analysis and (2) a revised analysis. The revised analysis omits a set of inaccurate academic data that had artificially inflated the academic results for Thomas High School's (THS) 9th graders. The comparisons demonstrate the effect of omitting the inaccurate student performance data on district and school level data.
+To note, the results shared below compare the findings from (1) an initial analysis and (2) a revised analysis. The revised analysis omits a set of inaccurate academic data that had (for the most part) artificially inflated the academic results for Thomas High School's (THS) 9th graders. The comparisons demonstrate the effect of omitting the inaccurate student performance data on district and school level data.
 
 ### Results
 The sub-sections below outline how each facet listed has been impacted by the omission of Thomas High School's 9th grade test results.
@@ -34,7 +34,7 @@ As predicted, omitting scores from THS had no effect on the per-school results f
 
 Results decreased modestly in terms of Average Math,  % Passing Math, % Passing Reading, and % Overall Passing. The largest drop was in % Passing Reading, where omitting THS' 9th graders led to a drop of 0.29 percentage points in the proficiency rate. The result for Average Reading increased slightly (by 0.05 percentage points).
 
-##### Comparing math and reading scores by grade
+##### Math and reading scores by grade
 Predictably, other than the effect on THS' scores of omitting its 9th grade results, there was no change in math and reading scores by grade between the two analyses.
 
 ![School Math Scores - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Math_scores_by_grade_1.png)
@@ -53,7 +53,7 @@ Predictably, other than the effect on THS' scores of omitting its 9th grade resu
 
 ##### *Figure 8: Reading Scores by School and Grade - Revised Analysis*
 
-##### Comparing scores by school spending
+##### Scores by school spending
 Scores based on spending ranges did not change between the first and second analysis.
 
 ![Scores By Spending - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Scores_by_spending_1.png)
@@ -64,7 +64,7 @@ Scores based on spending ranges did not change between the first and second anal
 
 ##### *Figure 10: Scores by Spending Range - Revised Analysis*
 
-##### Comparing scores by school size
+##### Scores by school size (in terms of student population)
 Scores based on school size did not change between the first and second analysis.
 
 ![Scores by School Size](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Scores_by_size_1.png)
@@ -75,7 +75,7 @@ Scores based on school size did not change between the first and second analysis
 
 ##### *Figure 12: Scores by School Size - Revised Analysis*
 
-##### Comparing schools by school type
+##### Scores by school type (charter/district)
 Scores based on school type did not change between the first and second analysis.
 
 ![Scores by School Type](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Scores_by_type_1.png)
