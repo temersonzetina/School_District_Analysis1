@@ -25,9 +25,11 @@ We expected these differences in results to be marginal given that THS 9th grade
 As predicted, omitting scores from THS had no effect on the results for the other 14 schools. For THS, changes in academic results between the first and second analysis ranged between a few hundredths and a few tenths of a percentage point - 
 
 ![School Summary (w/THS 9th grade scores included)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/School_summary_1.png)
+
 *Initial School Summary
 
 ![School Summary (w/THS 9th grade scores omitted)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/School_Summary_2.png)
+
 *Revised School Summary
 
 Results decreased modestly in terms of Average Math,  % Passing Math, % Passing Reading, and % Overall Passing. The largest drop was in % Passing Reading, where omitting THS' 9th graders led to a drop of 0.29 percentage points in the proficiency rate. The result for Average Reading increased slightly (by 0.05 percentage points).
@@ -36,15 +38,19 @@ Results decreased modestly in terms of Average Math,  % Passing Math, % Passing 
 Predictably, other than the effect on THS' scores of omitting its 9th grade results, there was no change in math and reading scores by grade between the two analyses.
 
 ![School Math Scores - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Math_scores_by_grade_1.png)
+
 *Math Scores by School and Grade - Initial Analysis*
 
 ![School Math Scores - Revised Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Math_scores_by_grade_2.png)
+
 *Math Scores by School and Grade - Revised Analysis* 
 
 ![School Reading Scores - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Reading_scores_by_grade_1.png)
+
 *Reading Scores by School and Grade - Initial Analysis*
 
 ![School Reading Scores - Revised Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Reading_scores_by_grade_2.png)
+
 *Reading Scores by School and Grade - Revised Analysis*
 
 ##### Comparing scores by school spending
