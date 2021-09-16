@@ -11,35 +11,41 @@ Because THS' 9th grade academic scores tended to be higher than the school and d
 
 ![District Summary (w/THS 9th grade scores included)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/First_district_summary.png)
 
-*District Summary (w/THS 9th grade scores included)*
+*District Summary (w/THS 9th grade scores included), or "Initial Summary"*
 
 ![District Summary (w/THS 9th grade scores omitted)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Second_district.summary%20copy.png)
 
-*District Summary (w/THS 9th grade scores omitted)*
+*District Summary (w/THS 9th grade scores omitted), or "Revised Summary"*
 
-We expected the differences in results to be marginal given that THS 9th grade students comprise such a small percentage of the overall district population. When comparing the first and second school-specific analyses, we found that the changes therein were similarly modest.
+We expected these differences in results to be marginal given that THS 9th grade students comprise such a small percentage of the overall district population. When comparing the first and second school-specific analyses, we found that the changes therein were similarly modest.
 
 #### School summary
 
 ##### Comparing aggregate results by school for each analysis
 As predicted, omitting scores from THS had no effect on the results for the other 14 schools. For THS, changes in academic results between the first and second analysis ranged between a few hundredths and a few tenths of a percentage point - 
 
-<Image of School Summary 1>
-*Initial School Summary (w/THS 9th grade scores)*
-<Image of School Summary 2>
-*Revised School Summary (THS 9th grade scores omitted)*
+![School Summary (w/THS 9th grade scores included)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/School_summary_1.png)
+*Initial School Summary
+
+![School Summary (w/THS 9th grade scores omitted)](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/School_Summary_2.png)
+*Revised School Summary
 
 Results decreased modestly in terms of Average Math,  % Passing Math, % Passing Reading, and % Overall Passing. The largest drop was in % Passing Reading, where omitting THS' 9th graders led to a drop of 0.29 percentage points in the proficiency rate. The result for Average Reading increased slightly (by 0.05 percentage points).
 
-
 ##### Comparing math and reading scores by grade
-Predictably, other than the omission of 9th grade scores at THS, there was no change in math and reading scores by grade between the two analyses.
+Predictably, other than the effect on THS' scores of omitting its 9th grade results, there was no change in math and reading scores by grade between the two analyses.
 
-Math and reading scores by grade
-<Image of School Math scores by grade 1>
-<Image of School Math scores by grade 2>
-<Image of School Reading scores by grade 1>
-<Image of School Reading scores by grade 2>
+![School Math Scores - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Math_scores_by_grade_1.png)
+*Math Scores by School and Grade - Initial Analysis*
+
+![School Math Scores - Revised Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Math_scores_by_grade_2.png)
+*Math Scores by School and Grade - Revised Analysis* 
+
+![School Reading Scores - Initial Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Reading_scores_by_grade_1.png)
+*Reading Scores by School and Grade - Initial Analysis*
+
+![School Reading Scores - Revised Analysis](https://github.com/temersonzetina/School_District_Analysis1/blob/main/Resources/Images/Reading_scores_by_grade_2.png)
+*Reading Scores by School and Grade - Revised Analysis*
 
 ##### Comparing scores by school spending
 Scores based on spending ranges did not change between the first and second analysis.
